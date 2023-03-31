@@ -13,7 +13,3 @@ The program generates the desired output as long as the arguements provided are 
 mahdi@malkawimahdi:~$  ./speller /dictionaries/large /texts/aca/txt
 ```
 The program will then output in the terminal the misspelt words located within the text.
-
-##Note
-This program is used by me personally on my Arch based system,to locate the spelling on smaller files.
-A later revision of this program may proceed.
